@@ -1,0 +1,1 @@
+Scripters are working towards creating a roleplaying script for the open-source evnironment "multi theft auto"
